@@ -17,12 +17,12 @@ Shows the flow of the system in case of the admin use the system:
 # Implementation
 ### The first phase of the implementation is to define the information needed for each movie, which are category, language, age restriction, season.
 
-Category includes: Drama, Science, Fantasy, Mystery, Action, Adventure, Romance, Comedy, Animation, and Horror.
-Language includes: English, Korean, Indian, Japanese, and No preference.
-Age includes: G, PG, R, NC-17, and No preference. The meaning of age restriction:
-• G – General Audiences, All ages admitted. Nothing that would offend parents for viewing by children.
-• PG – Parental Guidance Suggested - Some material may not be suitable for children. Parents urged to give "parental guidance". May contain some material parents might not like for their young children.
-• R – Restricted, Under 17 requires accompanying parent or adult guardian. It contains some adult material. Parents are urged to learn more about the film before taking their young children with them.
+- Category includes: Drama, Science, Fantasy, Mystery, Action, Adventure, Romance, Comedy, Animation, and Horror.
+- Language includes: English, Korean, Indian, Japanese, and No preference.
+- Age includes: G, PG, R, NC-17, and No preference. The meaning of age restriction:
+* G – General Audiences, All ages admitted. Nothing that would offend parents for viewing by children.
+* PG – Parental Guidance Suggested - Some material may not be suitable for children. Parents urged to give "parental guidance". May contain some material parents might not like for their young children.
+* R – Restricted, Under 17 requires accompanying parent or adult guardian. It contains some adult material. Parents are urged to learn more about the film before taking their young children with them.
 3
-• NC-17 – Adults Only, No One 17 and Under Admitted. Clearly adult. Children are not admitted.
-Season includes: 2019 first quarter, 2019 second quarter, 2019 third quarter, 2019 fourth quarter, and No preference.
+* NC-17 – Adults Only, No One 17 and Under Admitted. Clearly adult. Children are not admitted.
+- Season includes: 2019 first quarter, 2019 second quarter, 2019 third quarter, 2019 fourth quarter, and No preference.

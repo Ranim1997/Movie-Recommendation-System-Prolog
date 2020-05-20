@@ -8,4 +8,4 @@ system (display all movies, add, and delete a movie). The second user is a movie
 with the system to get a specific recommendation based on his/her preference.
 
 ![](https://github.com/Ranim1997/Movie-Recommendation-System-Prolog/blob/master/Capture.JPG)
-
+## shows the flow of the system in case of the movie lovers use the system.

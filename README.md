@@ -27,9 +27,10 @@ Defining the information needed for each movie, which are category, language, ag
 - Season includes: 2019 first quarter, 2019 second quarter, 2019 third quarter, 2019 fourth quarter, and No preference.
 
 # Sample Run
-![](https://github.com/Ranim1997/Movie-Recommendation-System-Prolog/blob/master/img/full path.JPG)
 
-![](https://github.com/Ranim1997/Movie-Recommendation-System-Prolog/blob/master/img/add.JPG)
+![](https://github.com/Ranim1997/Movie-Recommendation-System-Prolog/blob/master/img/full%20path.JPG)
+
+![](https://github.com/Ranim1997/Movie-Recommendation-System-Prolog/blob/master/img/add%20movie.JPG)
 
 
 

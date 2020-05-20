@@ -1,4 +1,4 @@
-# Movie-Recommendation-System-Prolog
+# Introduction
 For many years, movies were a way to entertain for a lot of people. Nowadays, the evolution of technologies; movie lovers could find a huge number of movies via multiple movie providers. In order to help movie lovers to save time and effort looking for movies satisfy with their preference; we came up with a Movie Recommendation System. The Movie Recommendation System has the ability to give the user the best match movie based on their preference.
 
 
@@ -14,8 +14,8 @@ Shows the flow of the system in case of the admin use the system:
 ![](https://github.com/Ranim1997/Movie-Recommendation-System-Prolog/blob/master/img/admin.JPG)
 
 
-# Implementation
-### The first phase of the implementation is to define the information needed for each movie, which are category, language, age restriction, season.
+# Information Collected
+Defining the information needed for each movie, which are category, language, age restriction, season.
 
 - Category includes: Drama, Science, Fantasy, Mystery, Action, Adventure, Romance, Comedy, Animation, and Horror.
 - Language includes: English, Korean, Indian, Japanese, and No preference.
@@ -25,3 +25,11 @@ Shows the flow of the system in case of the admin use the system:
   + R – Restricted, Under 17 requires accompanying parent or adult guardian. It contains some adult material. Parents are urged to learn more about the film before taking their young children with them.
   + NC-17 – Adults Only, No One 17 and Under Admitted. Clearly adult. Children are not admitted.
 - Season includes: 2019 first quarter, 2019 second quarter, 2019 third quarter, 2019 fourth quarter, and No preference.
+
+# Sample Run
+![](https://github.com/Ranim1997/Movie-Recommendation-System-Prolog/blob/master/img/full path.JPG)
+
+![](https://github.com/Ranim1997/Movie-Recommendation-System-Prolog/blob/master/img/add.JPG)
+
+
+

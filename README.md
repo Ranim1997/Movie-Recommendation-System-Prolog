@@ -7,5 +7,8 @@ The system has two main users. The first user is the admin, who has the authorit
 system (display all movies, add, and delete a movie). The second user is a movie love, who can interact
 with the system to get a specific recommendation based on his/her preference.
 
-![](https://github.com/Ranim1997/Movie-Recommendation-System-Prolog/blob/master/Capture.JPG)
-## shows the flow of the system in case of the movie lovers use the system.
+Shows the flow of the system in case of the movie lovers use the system:
+![](https://github.com/Ranim1997/Movie-Recommendation-System-Prolog/blob/master/img/movielover.JPG)
+
+Shows the flow of the system in case of the admin use the system:
+![](https://github.com/Ranim1997/Movie-Recommendation-System-Prolog/blob/master/img/admin.JPG)

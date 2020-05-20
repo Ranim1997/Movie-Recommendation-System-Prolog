@@ -30,7 +30,3 @@ Defining the information needed for each movie, which are category, language, ag
 
 ![](https://github.com/Ranim1997/Movie-Recommendation-System-Prolog/blob/master/img/full%20path.JPG)
 
-![](https://github.com/Ranim1997/Movie-Recommendation-System-Prolog/blob/master/img/add%20movie.JPG)
-
-
-
